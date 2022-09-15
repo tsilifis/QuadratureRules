@@ -7,6 +7,6 @@ This is a Julia version of the quadrature rule class that can be found in my cha
 - **Gauss-Hermite**
 - **Gauss-Legendre**
 - **Gauss-Laguerre**
-- **Clennshaw-Curtis**
+- **Clenshaw-Curtis**
 - **Newton-Cotes**
 
